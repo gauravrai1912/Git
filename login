@@ -1,2 +1,2 @@
-login function addes
+login function added
 
